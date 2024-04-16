@@ -1,0 +1,68 @@
+.order_info1_list .image_block{
+	width: 135px;
+}
+.reviews_list .owl-nav {
+	top: 0%;
+}
+
+.bold {
+	font-weight: 700;
+	font-size: 20px;
+}
+
+.order_info2_list p{
+ color: #fff;
+ padding-left: 0
+}
+
+.reviews_section .owl-prev {
+	left: -68px;
+}
+.reviews_section .owl-next {
+	right: -18px;
+}
+
+.owl-nav {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+}
+
+.owl-nav:after {
+	clear: both;
+	content: '';
+	display: table;
+}
+
+.owl-prev {
+	margin-left: 25px !important;
+	float: left !important;
+}
+
+.owl-next {
+	margin-right: 25px !important;
+	float: right !important;
+}
+
+.owl-prev img,
+.owl-next img {
+	width: 20px;
+}
+
+.owl-prev,
+.owl-next {
+	height: 40px !important;
+	width: 40px !important;
+	-webkit-border-radius: 50% !important;
+	-moz-border-radius: 50% !important;
+	border-radius: 50% !important;
+	background: #4CBFA8 !important;
+	color: white !important;
+	font-size: 1.3rem !important;
+	font-weight: bold !important;
+}
+
+
+.benefits_list2{
+	width: 100%;
+}

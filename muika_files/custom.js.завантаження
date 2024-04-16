@@ -1,0 +1,9 @@
+$(".owl-carousel").owlCarousel({
+	items: 1,
+	nav: true,
+  navText: ["<img src='files/img/left-chevron.png'>", "<img src='files/img/right-chevron.png'>"],
+	loop: false,
+	dots: false,
+	lazyLoad: true,
+	autoHeight: true
+});
